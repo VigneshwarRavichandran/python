@@ -1,8 +1,8 @@
-n=int(input())
-arr = []
-for j in range(0,n) :
+n_input=int(input())
+arr_sort = []
+for j in range(0,n_input) :
     a=int(input())
-    arr.append(a); 
-arr.sort() 
-for j in range(0,n) :
-    print(arr[j])
+    arr_sort.append(a); 
+arr_sort.sort() 
+for j in range(0,n_input) :
+    print(arr_sort[j])
