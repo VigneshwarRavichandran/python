@@ -1,0 +1,7 @@
+h1=int(input())
+m1=int(input())
+h2=int(input())
+m2=int(input())
+h=abs(h1-h2)
+m=abs(m1-m2)
+print(h,m)
