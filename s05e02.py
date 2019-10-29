@@ -5,4 +5,4 @@ if len(a)==len(n):
 elif len(a)>len(n):
     print(a)
 else:
-    print(n)
+    print(n,a)
